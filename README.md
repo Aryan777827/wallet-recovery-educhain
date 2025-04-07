@@ -38,5 +38,6 @@ You can deploy this contract using Hardhat, Remix, or Foundry. Initial construct
 new SmartWalletRecovery([guardian1, guardian2, guardian3], 2);
 
 ## contract Details: 0xe971B0dD7EfF7Cc31295148d6C76cbdcF3643a7E
-![Screenshot_7-4-2025_124547_edu-chain-testnet blockscout com](https://github.com/user-attachments/assets/0bd9c27d-641a-4a1e-a39c-1aa93cf64f11)
+
+![Screenshot_7-4-2025_124547_edu-chain-testnet blockscout com](https://github.com/user-attachments/assets/dd5e0e94-8272-4b74-a9ab-cbc07be53c70)
 
