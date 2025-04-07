@@ -39,5 +39,6 @@ new SmartWalletRecovery([guardian1, guardian2, guardian3], 2);
 
 ## contract Details: 0xe971B0dD7EfF7Cc31295148d6C76cbdcF3643a7E
 
-![Screenshot_7-4-2025_124547_edu-chain-testnet blockscout com](https://github.com/user-attachments/assets/dd5e0e94-8272-4b74-a9ab-cbc07be53c70)
+
+![Screenshot_7-4-2025_124547_edu-chain-testnet blockscout com](https://github.com/user-attachments/assets/cf9df477-6696-406e-926c-a85cc31c18c5)
 
